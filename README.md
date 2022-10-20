@@ -15,6 +15,10 @@ The original run script time for 2017 and 2018 were as follows:
 
 The refactored run script time for 2017 and 2018 were as follows: 
 
+![image](https://github.com/deejoseph281/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![image](https://github.com/deejoseph281/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+
 ## Summary
 ### The advantages and disadvantages to refactoring code
 ### How do the pros and cons apply to refactoring the original VBA script
