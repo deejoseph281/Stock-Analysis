@@ -9,6 +9,7 @@ The results of this analysis was a code that can analyze the daily volume and re
 
 ### Comparable stock performance 2017 and 2018
 The original run script time for 2017 and 2018 were as follows:
+
 ![image](https://user-images.githubusercontent.com/115019829/196848839-0b5e8759-e815-4473-805f-fdb622725220.png)
 ![image](https://user-images.githubusercontent.com/115019829/196848849-21bfd989-9d23-43e7-9342-ba13ffc207c1.png)
 
