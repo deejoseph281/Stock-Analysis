@@ -28,6 +28,11 @@ The refactored run script time for 2017 and 2018 were as follows:
 ![image](https://github.com/deejoseph281/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![image](https://github.com/deejoseph281/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
+The refactored code allows us to select the year in which we want to run the analysis, rather than a single year. The refactored code also removes any specific cell references allowing us to change the data sets for the years as we continue to run analysis year over year. We were also able to define variables that would be consistent with any future stocks analysis without having to manually review each macro code for references to specific cells, rows, or columns.
+
+![image](https://user-images.githubusercontent.com/115019829/197043464-930769eb-3dd3-41a9-af1b-dfe82b8d3081.png)
+
+
 ## Summary
 ### The advantages and disadvantages to refactoring code
 ### How do the pros and cons apply to refactoring the original VBA script
