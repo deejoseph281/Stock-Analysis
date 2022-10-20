@@ -8,8 +8,11 @@ The results of this analysis was a code that can analyze the daily volume and re
 ![image](https://user-images.githubusercontent.com/115019829/196848646-3924174f-0dcc-4d9b-8625-71b514d52501.png)
 
 ### Comparable stock performance 2017 and 2018
-Original script time was
-Refactored script time was
+The original run script time for 2017 and 2018 were as follows:
+![image](https://user-images.githubusercontent.com/115019829/196848839-0b5e8759-e815-4473-805f-fdb622725220.png)
+![image](https://user-images.githubusercontent.com/115019829/196848849-21bfd989-9d23-43e7-9342-ba13ffc207c1.png)
+
+The refactored run script time for 2017 and 2018 were as follows: 
 
 ## Summary
 ### The advantages and disadvantages to refactoring code
