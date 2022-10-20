@@ -34,5 +34,14 @@ The refactored code allows us to select the year in which we want to run the ana
 
 
 ## Summary
-### The advantages and disadvantages to refactoring code
+### The Advantages and Disadvantages to Refactoring Code
+The advantages to refactoring code is that the code is more extensible for adding functions. Refactoring aids in increasing the flexibility of the code and, therefore, the capability of the code. Once the code is refactored, it is up-to-date, easier to read and understand, simpler, and less complex to maintain. Where code is large, complex, and routinely used - the advantages refactoring the code may result in quicker processing time and less space required for the code.
+
+The disadvantages to refactoring code is that the chances to make mistakes, and therefore spend time troubleshooting mistakes, increases. There is likelihood, when stepping into a code, that simplifying one line may result in an error in a subsequent line resulting in trying to rewrite the entire code which may ultimately break the code itself. The disadvantages may outweigh the advantages for simple, less frequently used code. 
+
 ### How do the pros and cons apply to refactoring the original VBA script
+The original VBA script was simply written with a the code running through all rows of the same ticker to find the final ending price of the ticker. However, we are only looking at the final price of the ticker and not the final price of each day of the ticker. Once refactored, we were able to review the daily starting and closing price to understand the stocks performance over time rather than for the year alone. 
+
+![image](https://user-images.githubusercontent.com/115019829/197045723-019d31e9-6196-49af-8653-9264593cfc53.png)
+
+The refactored code continued to create bugs and errors where variables had not been defined, where the IF statements were not logically sound and written in order to allow for the flexibility of moving to the next ticker, and where the loops were not initialized within the correct order. There were many bugs related to the variable names and incorrect spelling would break the code. It was clear that the code, while it did allow us to pull 2017 data as well, required much more time and effort to refactor than it took to build the original code. 
