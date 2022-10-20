@@ -8,6 +8,8 @@ The results of this analysis was a code that can analyze the daily volume and re
 ![image](https://user-images.githubusercontent.com/115019829/196848646-3924174f-0dcc-4d9b-8625-71b514d52501.png)
 
 ### Comparable stock performance 2017 and 2018
+The stocks performed 
+
 The original run script time for 2017 and 2018 were as follows:
 
 ![image](https://user-images.githubusercontent.com/115019829/196848839-0b5e8759-e815-4473-805f-fdb622725220.png)
